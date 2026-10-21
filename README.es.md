@@ -136,4 +136,4 @@ Requiere una toolchain estable de Rust reciente.
 
 ## Licencia
 
-Por determinar
+[MIT](LICENSE) — consulte el archivo [LICENSE](LICENSE) para más detalles.

@@ -6,7 +6,7 @@ description = "Lightweight single-binary process and service manager for Windows
 repository = "https://github.com/tanzibiao/perch"
 homepage = "https://github.com/tanzibiao/perch"
 readme = "README.md"
-# license 待定(README 目前标注 TBD)。选定后填入 SPDX 标识,如 license = "MIT"
+license = "MIT"
 keywords = ["process-manager", "windows-service", "supervisor", "service-manager", "daemon"]
 categories = ["command-line-utilities", "os::windows-apis", "web-programming::http-server"]
 

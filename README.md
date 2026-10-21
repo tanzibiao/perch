@@ -136,4 +136,4 @@ Requires a recent stable Rust toolchain.
 
 ## License
 
-TBD
+[MIT](LICENSE) — see the [LICENSE](LICENSE) file for details.

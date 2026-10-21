@@ -136,4 +136,4 @@ cargo build --release
 
 ## ライセンス
 
-未定
+[MIT](LICENSE) — 詳細は [LICENSE](LICENSE) ファイルを参照してください。

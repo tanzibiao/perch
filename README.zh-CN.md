@@ -136,4 +136,4 @@ cargo build --release
 
 ## 许可证
 
-待定
+[MIT](LICENSE) — 详见 [LICENSE](LICENSE) 文件。
